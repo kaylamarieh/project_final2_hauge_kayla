@@ -7,7 +7,31 @@ purple - 764c88
 peach - fed9bc
 **********/
 
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
 @fontface {
     font-family: Sweet Patterson DEMO;
     src: url(../fonts/SweetPattersonDEMO.tff);
+}
+
+header img {
+    width: 100%;
+    max-width: 200px;
+    margin: auto;
+}
+
+h1 {
+    font-family: Sweet Patterson DEMO;
+    font-size: 4em;
+    width: 100%;
+    margin: auto;
+    text-align: center;
 }
