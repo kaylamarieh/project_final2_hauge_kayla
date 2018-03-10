@@ -22,16 +22,17 @@ html {
     src: url(../fonts/SweetPattersonDEMO.tff);
 }
 
-header img {
+header {
+    font-family: Sweet Patterson DEMO;
+    font-size: 2em;
     width: 100%;
-    max-width: 200px;
-    margin: auto;
+    text-align: center;
 }
 
 h1 {
-    font-family: Sweet Patterson DEMO;
-    font-size: 4em;
-    width: 100%;
-    margin: auto;
-    text-align: center;
+    margin: 0;
+}
+
+header img {
+    max-width: 200px;
 }
