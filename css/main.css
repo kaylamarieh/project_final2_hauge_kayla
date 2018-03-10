@@ -27,6 +27,7 @@ header {
     font-size: 2em;
     width: 100%;
     text-align: center;
+    color: #28475a;
 }
 
 h1 {
@@ -35,4 +36,21 @@ h1 {
 
 header img {
     max-width: 200px;
+}
+
+main {
+    text-align: center;
+}
+
+h2,
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 2em;
+    color: #28475a;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    color: #28475a;
 }
