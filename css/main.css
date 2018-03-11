@@ -110,6 +110,8 @@ button:active {
 aside {
     background-color: #fed9bc;
     padding: 2%;
+    width: 95%;
+    margin: auto;
 }
 
 aside img {
