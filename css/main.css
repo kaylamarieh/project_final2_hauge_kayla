@@ -73,3 +73,15 @@ button:hover {
 button:active {
     background-color: #fed9bc;
 }
+
+#link {
+    color: #6c8555;
+}
+
+#link:hover {
+    color: #764c88;
+}
+
+#link:visited {
+    color: #6c8555;
+}
