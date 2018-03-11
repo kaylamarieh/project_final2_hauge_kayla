@@ -17,7 +17,7 @@ html {
     box-sizing: inherit;
 }
 
-@fontface {
+@font-face {
     font-family: Sweet Patterson DEMO;
     src: url(../fonts/SweetPattersonDEMO.tff);
 }
