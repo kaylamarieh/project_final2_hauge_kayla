@@ -9,6 +9,12 @@
 ## Resources
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css#L107-L169)
     * I used this to visually hide the h2 elements on the page needed to create an outline.
+* [Google Fonts](https://fonts.google.com/)
+    * I used this to select fonts to be used on my website.
+* [Da Font](https://www.dafont.com/)
+    * I used this to find a script font for the logo.
+* [ShutterStock](https://www.shutterstock.com/search?searchterm=rustic+floral+&search_source=base_search_form&language=en&page=1&sort=popular&image_type=all&measurement=px&safe=true)
+    * I used this site to select photos to be used for the flower shop.
 
 ## Deductions
 "I reviewed the list of deductions for this assignment and in the syllabus"
