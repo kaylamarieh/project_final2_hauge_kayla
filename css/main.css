@@ -137,3 +137,16 @@ aside img {
         padding-bottom: 1%;
     }
 }
+
+@media (min-width: 900px) {
+
+    #one {
+        width: 49%;
+        float: left;
+    }
+
+    #two {
+        width: 49%;
+        float: right;
+    }
+}
