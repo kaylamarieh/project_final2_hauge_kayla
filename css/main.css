@@ -19,7 +19,7 @@ html {
 
 @font-face {
     font-family: Sweet Patterson DEMO;
-    src: url(../fonts/SweetPattersonDEMO.tff);
+    src: url('../fonts/SweetPattersonDEMO.tff');
 }
 
 .visuallyhidden {
