@@ -17,11 +17,6 @@ html {
     box-sizing: inherit;
 }
 
-@font-face {
-    font-family: Sweet Patterson DEMO;
-    src: url('../fonts/SweetPattersonDEMO.tff');
-}
-
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
@@ -35,7 +30,7 @@ html {
 }
 
 header {
-    font-family: Sweet Patterson DEMO;
+    font-family: 'Kristi', cursive;
     font-size: 2em;
     width: 100%;
     text-align: center;
