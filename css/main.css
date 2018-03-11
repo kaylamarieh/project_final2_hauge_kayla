@@ -3,8 +3,8 @@ colors
 green - #6c8555
 light blue - #679dbf
 dark blue - #28475a
-purple - 764c88
-peach - fed9bc
+purple - #764c88
+peach - #fed9bc
 **********/
 
 html {
@@ -53,4 +53,23 @@ p {
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
     color: #28475a;
+}
+
+button {
+    margin: 5%;
+    padding: 2%;
+    background-color: #679dbf;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+}
+
+button:hover {
+    border: #679dbf solid 3px;
+    color: #679dbf;
+    background-color: #ffffff;
+}
+
+button:active {
+    background-color: #fed9bc;
 }
