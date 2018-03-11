@@ -85,3 +85,9 @@ button:active {
 #link:visited {
     color: #6c8555;
 }
+
+aside img {
+    width: 100%;
+    max-width: 600px;
+    align-items: center;
+}
