@@ -150,3 +150,11 @@ aside img {
         float: right;
     }
 }
+
+@media (min-width: 1000px) {
+
+    #container {
+        max-width: 1000px;
+        margin: auto;
+    }
+}
