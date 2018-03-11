@@ -65,6 +65,7 @@ p {
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
     color: #28475a;
+    padding: 1%;
 }
 
 button {
@@ -101,5 +102,24 @@ button:active {
 aside img {
     width: 100%;
     max-width: 600px;
-    align-items: center;
+    display: block;
+    padding-bottom: 5%;
+    margin: auto;
+}
+
+@media (min-width: 700px) {
+
+    main {
+        width: 50%;
+        float: left;
+    }
+
+    aside {
+        width: 50%;
+        float: right;
+    }
+
+    aside img {
+        max-width: 300px;
+    }
 }
