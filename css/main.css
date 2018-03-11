@@ -17,6 +17,10 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    background: #fed9bc;
+}
+
 @fontface {
     font-family: Sweet Patterson DEMO;
     src: url(../fonts/SweetPattersonDEMO.tff);
@@ -40,10 +44,13 @@ header {
     width: 100%;
     text-align: center;
     color: #28475a;
+    background: #ffffff;
 }
 
 h1 {
     margin: 0;
+    background: #fed9bc;
+    padding-bottom: 5%;
 }
 
 header img {
@@ -52,6 +59,10 @@ header img {
 
 main {
     text-align: center;
+    background-color: #ffffff;
+    width: 95%;
+    margin: auto;
+    padding: 2%;
 }
 
 h2,
@@ -103,23 +114,6 @@ aside img {
     width: 100%;
     max-width: 600px;
     display: block;
-    padding-bottom: 5%;
     margin: auto;
-}
-
-@media (min-width: 700px) {
-
-    main {
-        width: 50%;
-        float: left;
-    }
-
-    aside {
-        width: 50%;
-        float: right;
-    }
-
-    aside img {
-        max-width: 300px;
-    }
+    padding-top: 5%;
 }
