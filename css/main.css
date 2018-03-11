@@ -117,3 +117,23 @@ aside img {
     margin: auto;
     padding-top: 5%;
 }
+
+@media (min-width: 700px) {
+
+    main {
+        float: left;
+        width: 45%;
+        margin-left: 2%;
+    }
+
+    aside {
+        width: 45%;
+        float: right;
+        margin-right: 2%;
+    }
+
+    aside img {
+        padding-top: 0;
+        padding-bottom: 1%;
+    }
+}
